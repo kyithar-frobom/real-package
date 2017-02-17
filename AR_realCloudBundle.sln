@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_realCloudBundle.CSharp", "AR_realCloudBundle.CSharp.csproj", "{61BAEA6D-82F0-11C3-10C6-9F381E59C7B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_realCloudBundle.CSharp.Editor", "AR_realCloudBundle.CSharp.Editor.csproj", "{9DA2F086-1A6C-7AC6-88AC-F34AE930297D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61BAEA6D-82F0-11C3-10C6-9F381E59C7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BAEA6D-82F0-11C3-10C6-9F381E59C7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BAEA6D-82F0-11C3-10C6-9F381E59C7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BAEA6D-82F0-11C3-10C6-9F381E59C7B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DA2F086-1A6C-7AC6-88AC-F34AE930297D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA2F086-1A6C-7AC6-88AC-F34AE930297D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA2F086-1A6C-7AC6-88AC-F34AE930297D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA2F086-1A6C-7AC6-88AC-F34AE930297D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

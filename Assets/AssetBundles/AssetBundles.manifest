@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 819973542
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bath
+      Dependencies: {}
